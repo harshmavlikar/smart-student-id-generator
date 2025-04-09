@@ -4,8 +4,7 @@ A ReactJS web app for generating smart student ID cards with QR codes and downlo
 
 ## 🚀 Live Demo
 
-🌐 [Click here to view the deployed site](https://your-netlify-link.netlify.app)  
-(Replace this with your actual Netlify link after deployment)
+🌐 [Click here to view the deployed site](https://idgenerator2903.netlify.app/)  
 
 ---
 
