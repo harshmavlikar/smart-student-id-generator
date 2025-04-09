@@ -43,12 +43,6 @@ This project simulates a real-world student ID generator with features like live
 
 ---
 
-## 📹 Video Walkthrough
-
-🎥 [Watch the demo on YouTube / Google Drive](https://your-video-link)  
-(Replace with your video walkthrough link)
-
----
 
 ## 📁 Folder Structure
 
