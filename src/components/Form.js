@@ -118,7 +118,7 @@ export default function Form({ onSubmit }) {
               <option key={allergy} value={allergy}>{allergy}</option>
             ))}
           </select>
-          <p className="text-xs text-gray-500 mt-1">Hold Ctrl/Cmd to select multiple</p>
+          <p className="text-xs text-gray-500 mt-1">Hold Ctrl to select multiple</p>
         </div>
 
         {/* Photo Upload */}

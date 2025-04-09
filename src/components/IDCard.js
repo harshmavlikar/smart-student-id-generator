@@ -42,7 +42,7 @@ export default function IDCard({ data, template }) {
       >
         {/* Header */}
         <div className="text-center mb-4">
-          <h2 className="text-xl font-bold">UNITY SCHOOL</h2>
+          <h2 className="text-xl font-bold">CDAC Mumbai</h2>
           <p className="text-xs">STUDENT IDENTITY CARD</p>
         </div>
 
@@ -89,7 +89,7 @@ export default function IDCard({ data, template }) {
         </div>
 
         <div className="text-center text-xs mt-4 text-gray-500">
-          Valid 2024-2025 | Issued by Unity School
+          Valid 2024-2025 | Issued by CDAC Mumbai
         </div>
       </div>
 

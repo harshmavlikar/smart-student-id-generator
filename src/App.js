@@ -16,8 +16,8 @@ function App() {
           onChange={(e) => setTemplate(Number(e.target.value))}
           className="p-2 border rounded"
         >
-          <option value={1}>Template 1</option>
-          <option value={2}>Template 2</option>
+          <option value={1}>Blue ID</option>
+          <option value={2}>Green ID</option>
         </select>
       </div>
 
